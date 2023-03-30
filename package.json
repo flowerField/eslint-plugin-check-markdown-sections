@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-check-mark-sections",
+  "name": "eslint-plugin-check-markdown-sections",
   "version": "0.0.0",
   "description": "Check whether the specified chapter exists in the Markdown file",
   "keywords": [
